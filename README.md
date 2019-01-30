@@ -1,6 +1,6 @@
 
-# **Backyard Flyer Project**
-####Udacity Flying Car and Autonomous Flight Engineer Nanodegree
+# Backyard Flyer Project
+###Udacity Flying Car and Autonomous Flight Engineer Nanodegree
 ---
 
 The goals / steps of this project are the following:
